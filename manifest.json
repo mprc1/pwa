@@ -1,0 +1,60 @@
+{
+"name":"Patricio Reinoso web",
+"short_name": "Miguel R PWA",
+"description":"Aplicacion PWA Miguel Reinoso",
+"background_color": "#FFF",
+"theme_color":"#FB314E",
+"orientation": "portrait",
+"display": "standalone",
+"start_url":"./index.html?utm_source=web_app_manifest",
+"scope":"./",
+"lang":"es-ES", 
+
+"icons": [
+{
+	"src": "./img/img/favicon-1024.png",
+	"sizes": "1024*1014",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-512.png",
+	"sizes": "512*512",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-384.png",
+	"sizes": "384*384",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-256.png",
+	"sizes": "256*256",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-128.png",
+	"sizes": "128*128",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-96.png",
+	"sizes": "96*96",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-64.png",
+	"sizes": "64*64",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-32.png",
+	"sizes": "32*32",
+	"type": "image/png"
+},
+{
+	"src":"./img/img/favicon-16.png",
+	"sizes": "16*16",
+	"type": "image/png"
+}
+]
+}
